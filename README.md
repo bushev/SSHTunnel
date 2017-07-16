@@ -40,22 +40,6 @@ We will disclose your Personal Information where required to do so by law or in 
 
 The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security. As such we make no warranties as to the level of security afforded to your data, except that we will always act in accordance with the relevant UK and EU legislation.
 
-#### International Transfer
-
-Your information, including Personal Information, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
-
-If you are located outside United Kingdom and choose to provide information to us, please note that we transfer the information, including Personal Information, to United Kingdom and process it there.
-
-Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
-
-In the event that a dispute arises with regards to the international transfer of data, you agree that the courts of England and Wales shall have exclusive jurisdiction over the matter.
-
-#### Links To Other Sites
-
-Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
-
-We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
-
 #### Children's Privacy
 
 Our Service does not address anyone under the age of 13 ("Children").
